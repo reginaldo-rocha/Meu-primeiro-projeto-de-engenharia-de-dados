@@ -10,11 +10,11 @@ Este projeto automatiza a extração, tratamento e visualização de dados de co
 * **Visualização:** Streamlit & Plotly
 * **Versionamento:** Git & GitHub
 
-## 🏗️ Arquitetura do Projeto![Uploading 61a22cef-be0f-4769-aab3-b3b66e9ef74b.jpg…]()
+## 🏗️ Arquitetura do Projeto!  
 
 Aqui está o fluxo lógico dos dados:
 
-![Fluxograma do Projeto]<img width="1024" height="335" alt="image" src="https://github.com/user-attachments/assets/4f096ea6-0c84-4bd2-8ce1-bb60bddacced" />
+![Fluxograma do Projeto] <img width="1024" height="335" alt="image" src="https://github.com/user-attachments/assets/4f096ea6-0c84-4bd2-8ce1-bb60bddacced" />
 
 
 1.  **Ingestão (Extract):** O script `ingestao.py` consome dados de uma API financeira e salva em formato CSV (Camada Bronze).
